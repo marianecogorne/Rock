@@ -1,44 +1,65 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PortifólioMariane</title>
-  <link rel="stylesheet" href="style.css">
+    <title>Movimento Musical Brasileiro: Rock Anos 80</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    
+    <header>
+        <h1>Movimento Musical Brasileiro: Rock Anos 80</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Histórico do Movimento</h2>
+            <p>O marco inicial da história do rock nacional dos anos 80 é considerado de ouro. O BRock refletiu a ansiedade e o caos da juventude em busca de mudanças. O single "Perdidos na Selva" da banda Gang 90 e as Absurdettes, em 1981, é um marco desse período.</p>
+            <p>Apesar disso, a Blitz é considerada pioneira, com seu álbum "As Aventuras da Blitz 1" (1982), que foi lançado em meio a um momento político conturbado.</p>
+        </section>
 
-<div>PORTIFÓLIO</div>
+        <section>
+            <h2>Características Musicais / Letra / Influências</h2>
+            <p>O Rock nos anos 80 teve influências de new wave, pós-punk, blues, techno-pop e reggae. O visual incluía cabelos armados, roupas coloridas e extravagantes, influenciados por bandas como The Cure e Kiss.</p>
+            <p>As letras expressavam críticas sociais e desejos de revolução, refletindo a realidade política da época.</p>
+        </section>
 
+        <section>
+            <h2>Principais Representantes do Movimento</h2>
+            <ul>
+                <li><strong>Barão Vermelho</strong>: Surgiu em 1981 e participou do Rock in Rio em 1985.</li>
+                <li><strong>Blitz</strong>: Conhecida por suas letras bem-humoradas e performances vibrantes.</li>
+                <li><strong>Kid Abelha</strong>: Teve um impressionante disco de estreia e muitos hits.</li>
+                <li><strong>Legião Urbana</strong>: Uma das maiores bandas, com sucesso de crítica e público.</li>
+                <li><strong>Paralamas do Sucesso</strong>: Misturava rock com reggae e ritmos latinos.</li>
+                <li><strong>Titãs</strong>: Reconhecidos por suas músicas inteligentes e engajadas.</li>
+                <li><strong>Ultraje a Rigor</strong>: Ficou famosa pelo álbum "Nós Vamos Invadir sua Praia".</li>
+            </ul>
+        </section>
 
-    <p> Apresentar fotos que eu tenha tirado de 2023 em diante </p>
-    
+        <section>
+            <h2>Grandes Músicas</h2>
+            <p>Algumas músicas importantes incluem:</p>
+            <ul>
+                <li>Que País É Este - Legião Urbana</li>
+                <li>Polícia - Titãs</li>
+                <li>Weekend - Blitz</li>
+                <li>Por Que a Gente É Assim - Barão Vermelho</li>
+            </ul>
+        </section>
 
+        <section>
+            <h2>Considerações Finais</h2>
+            <p>O rock nacional continua a impactar a música e a cultura contemporânea do Brasil, influenciando novas gerações e sendo celebrado em eventos como o Rock in Rio.</p>
+        </section>
 
-   <p>Links para as imagens</p>
-   
-    
-    
-        <li>1</li>
-        <a href="arvore.html" target="_blank">Árvore</a>
-    
-        <li>2</li>
-      <a href="poste.html" target="_blank">Poste</a>
-    
-        <li>3</li>
-        <a href="carpa.html" target="_blank">Carpa</a>
-         <li>4</li>
-        <a href="trabalho.html" target="_blank">Carpa 2</a>
-    
-        <br>
-    <li> Para ver todos os arquivos</li>
-    <a href="https://github.com/marianecogorne/Site-2024">Acesse o GitHub</a>
-
-    <li> Fotos disponibilizadas em pdf.</li>
-    <a href="https://github.com/marianecogorne/Site-2024/blob/3490cde89851086044b33aa6130fd35f01ad7ae9/IMAGEM1.pdf" target="_blank"  download="IMAGEM1.pdf" type="aplication/pdf">
-Somente foto 1 disponível para download em PDF
-    
-    
+        <section>
+            <h2>Fontes de Pesquisa</h2>
+            <ul>
+                <li><a href="https://www.cifraclub.com.br/blog/historia-do-rock-nacional-dos-anos-80/#google_vignette" target="_blank">Cifra Club</a></li>
+                <li><a href="https://ufmg.br/comunicacao/noticias/rock-nacional-foi-a-voz-politica-da-geracao-dos-anos-80" target="_blank">UFMG</a></li>
+                <li><a href="https://www.terra.com.br/diversao/musica/conheca-a-historia-do-rock-nacional-dos-anos-80,b049e35d6bb466bae8532b009f23fad1ht0x6xmj.html" target="_blank">Terra</a></li>
+            </ul>
+        </section>
+    </main>
 </body>
 </html>
